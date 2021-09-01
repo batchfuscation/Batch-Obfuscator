@@ -14,3 +14,4 @@ Add Junk To The Code To Make It Look More Confusing When Broken Down From Base64
 <p>Server Side Code</p>
 <p>Batch To Executable</p>
 <p>Anti-Decompile & Debug</p>
+<p>Compile To CS</p>
