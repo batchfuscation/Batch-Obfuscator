@@ -1,0 +1,10 @@
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchIDE.csprojAssemblyReference.cache
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchIDE.Form1.resources
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchIDE.csproj.GenerateResource.cache
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchIDE.csproj.CoreCompileInputs.cache
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\bin\Debug\BatchObfuscator.exe.config
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\bin\Debug\BatchObfuscator.exe
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\bin\Debug\BatchObfuscator.pdb
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchObfuscator.Properties.Resources.resources
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchObfuscator.exe
+C:\Users\h3l1x\source\repos\BatchIDE\BatchIDE\obj\Debug\BatchObfuscator.pdb
