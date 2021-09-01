@@ -1,3 +1,4 @@
+# Star Our Repo To See Development Continued On This Project
 # Batch-Obfuscator
 Secure Batch Code With Base64 And Junk Variables.
 
