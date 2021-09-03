@@ -1,6 +1,6 @@
 # Star Our Repo To See Development Continued On This Project
 # Batch-Obfuscator
-Secure Batch Code With Base64 And Junk Variables.
+Secure Batch Code With Base64, CS File Conversion, And Junk Variables. 
 
 # Base64 Encoding
 Hide Code With Base64 To Make Application Confusing.
@@ -8,10 +8,12 @@ Hide Code With Base64 To Make Application Confusing.
 # Junk Variables
 Add Junk To The Code To Make It Look More Confusing When Broken Down From Base64
 
+# Make Your Batch Code Written In C# To Compile Into An Executable 
+
 # To-Do
-<p>String Encryption</p>
-<p>Unreadable From Notepad</p>
-<p>Server Side Code</p>
-<p>Batch To Executable</p>
-<p>Anti-Decompile & Debug</p>
-<p>Compile To CS</p>
+<p>String Encryption (ETA Soon)</p>
+<p>Unreadable From Notepad(ETA Soon)</p>
+<p>Server Side Code (ETA Soon)</p>
+<p>Batch To Executable (In Development)</p>
+<p>Anti-Decompile & Debug (ETA Soon)</p>
+<p>Compile To CS (ETA Soon)</p>
