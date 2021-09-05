@@ -15,5 +15,6 @@ Add Junk To The Code To Make It Look More Confusing When Broken Down From Base64
 <p>Unreadable From Notepad(ETA Soon)</p>
 <p>Server Side Code (ETA Soon)</p>
 <p>Batch To Executable (In Development)</p>
-<p>Anti-Decompile & Debug (ETA Soon)</p>
+<p>Anti-Decompile (ETA Soon)</p>
+<p>Anti-Debug (In Progress)</p>
 <p>Compile To CS (ETA Soon)</p>
